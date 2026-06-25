@@ -6,6 +6,7 @@
 # | The version should be updated for each release of the IG, in accord with versioning policy.    |
 # | Keep the fhirVersion and instanceOptions settings unless specific reasons to change them.      |
 # ╰───────────────────────────────────────────────────────────────────────────────────────────────╯
+# trigger build
 id: hl7.fhir.uv.pacific.core
 packageId: hl7.fhir.uv.pacific.core
 canonical: https://healthinfoservices.net/fiji-pacific-ig
