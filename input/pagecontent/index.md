@@ -27,31 +27,8 @@ This guide is intended for:
 New users should begin with:
 
 * [Getting Started](gettingstarted.html)
-* [Conformance Overview](conformance.html)
-* [Profiles and Extensions](artifacts.html)
 
-### Contents
-
-#### Foundation
-
-* [Getting Started](gettingstarted.html)
-* [Design Principles](principles.html)
-* [Conformance](conformance.html)
-
-#### Clinical Content
-
-* [Patient and Demographics](patient.html)
-* [Terminology](terminology.html)
-
-
-#### Technical Reference
-
-* [Profiles](artifacts.html#structures-resource-profiles)
-* [Extensions](artifacts.html#structures-extension-definitions)
-* [Value Sets](artifacts.html#terminology-value-sets)
-* [Downloads](downloads.html)
-
-### Key Artifacts
+Then review the following key artifacts:
 
 | Category | Description |
 |------------|-------------|
@@ -59,12 +36,11 @@ New users should begin with:
 | [Data Type Profiles](datatypes.html) | Pacific-specific constrained or extended FHIR datatypes |
 | [Extensions](extensions.html)   | Pacific-specific data elements |
 | [Terminology](terminology.html) | Terminology bindings |
-
 | Downloads | Package and definitions |
 
 ### Package Information
 
-Canonical:  `https://healthinfoservices.net/fiji-pacific-ig`
+Canonical:  `https://fijiig.github.io/fiji-pacific-ig`
 
 FHIR Version: This IG derives from [FHIR R4 ver 4.0.1](https://hl7.org/fhir/R4/index.html). 
 
@@ -72,14 +48,6 @@ Package Id: `hl7.fhir.uv.pacific.core`
 
 Version:  0.2.1 ci-build
 
-### Profiles and Links  
-  
-[Data Type Profiles](datatypes.html)  
-  
-
-[How to contribute](gettingstarted.html)  
-
- 
 
 ### Primary Contributors  
 

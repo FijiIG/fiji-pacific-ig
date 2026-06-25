@@ -6,17 +6,17 @@ TODO:  Details below are example only, these need to be adjusted to match the re
 
 | Item          | Value                                |
 | ------------- | ------------------------------------ |
-| Package ID    | `org.fhir.pacific.core`              |
+| Package ID    | `hl7.fhir.uv.pacific.core`              |
 | Version       | `0.2.0-ci-build`                       |
 | FHIR Version  | `4.0.1 (R4)`                         |
-| Canonical URL | `http://fhir.org.fj/ig/pacific-core` |
+| Canonical URL | `https://fijiig.github.io/fiji-pacific-ig` |
 
 ### NPM Package
 
 The complete implementation guide is distributed as an NPM package:
 
 ```text
-org.fhir.pacific.core#1.0.0-ballot
+hl7.fhir.uv.pacific.core#??? (not yet available)
 ```
 
 The package contains:
@@ -33,7 +33,7 @@ The package may be used with the HL7 FHIR Validator:
 
 ```bash
 java -jar validator.jar resource.json \
-  -ig org.fhir.pacific.core#1.0.0-ballot
+  -ig hl7.fhir.uv.pacific.core
 ```
 
 ### Source Repository
@@ -48,7 +48,7 @@ The source repository contains:
 Repository:
 
 ```text
-https://github.com/FHIR-Pacific/pacific-core
+https://github.com/FijiIG/fiji-pacific-ig.git
 ```
 
 ## Continuous Integration Build
