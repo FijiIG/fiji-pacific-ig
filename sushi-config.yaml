@@ -19,6 +19,7 @@ releaseLabel: ci-build
 license: CC0-1.0
 copyright: Distributed under the Creative Commons CC0-1.0 License (https://creativecommons.org/publicdomain/zero/1.0/)
 
+# publisher information
 publisher:
   name: HealthInfoServices
   url: https://healthinfoservices.net
