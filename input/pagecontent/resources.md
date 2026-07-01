@@ -18,6 +18,9 @@ For diagnoses and problem list items:
 For lab results and other observations:
 * [PacificObservation](StructureDefinition-pacific-observation.html)  
 
+For Immunizations:
+* [PacificImmunization](StructureDefinition-pacific-immunization.html)
+
 For vital signs:
 * [PacificBloodPressure](StructureDefinition-pacific-vital-blood-pressure.html)  
 * [PacificBMI](StructureDefinition-pacific-vital-bmi.html)  
