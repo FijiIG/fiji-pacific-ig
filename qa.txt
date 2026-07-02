@@ -1,0 +1,149 @@
+FijiPacificCore : Validation Results
+=========================================
+
+err = 0, warn = 29, info = 35
+IG Publisher Version: 2.2.10
+Generated Thu Jul 02 02:49:39 UTC 2026. FHIR version 4.0.1 for hl7.fhir.uv.pacific.core#0.2.1 (canonical = https://fijiig.github.io/fiji-pacific-ig)
+ Build Errors : 4 / 3 / 0
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/ImplementationGuide-hl7.fhir.uv.pacific.core : 0 / 0 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/NamingSystem-FijiOrganizationIdentifier : 0 / 0 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/NamingSystem-FijiPatientIdentifier : 0 / 0 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/NamingSystem-FijiPractitionerRegistration : 0 / 0 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/NamingSystem-WSPractitionerRegistration : 0 / 0 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/Organization-PacificHospitalExample : 0 / 0 / 1
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/Patient-PacificPatientExample1 : 0 / 0 / 1
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/Patient-PacificPatientExample2 : 0 / 0 / 1
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/Patient-PacificPatientFijiITaukei : 0 / 1 / 1
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/Patient-PacificPatientFijiIndo : 0 / 2 / 1
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/Practitioner-PacificPractitionerExample : 0 / 2 / 1
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/PractitionerRole-PacificPractitionerRoleExample : 0 / 0 / 1
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-address : 0 / 0 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-address-island : 0 / 1 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-address-village : 0 / 1 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-allergy-intolerance : 0 / 1 / 3
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-clan-affiliation : 0 / 0 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-condition : 0 / 1 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-humanname : 0 / 0 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-immunization : 0 / 1 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-observation : 0 / 1 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-organization : 0 / 1 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-patient : 0 / 0 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-practitioner : 0 / 0 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-practitioner-role : 0 / 0 / 2
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-vital-blood-pressure : 0 / 1 / 3
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-vital-bmi : 0 / 1 / 3
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-vital-body-temperature : 0 / 1 / 3
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-vital-heart-rate : 0 / 1 / 3
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-vital-height : 0 / 1 / 3
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-vital-oxygen-saturation : 0 / 1 / 3
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-vital-respiratory-rate : 0 / 1 / 3
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/StructureDefinition-pacific-vital-weight : 0 / 1 / 3
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/ValueSet-heart-rate-loinc : 0 / 2 / 1
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/ValueSet-imm-vs : 0 / 2 / 1
+ /home/runner/work/fiji-pacific-ig/fiji-pacific-ig/fsh-generated/resources/ValueSet-obs-vs : 0 / 2 / 1
+</table>
+== n/a ==
+ERROR: en/extensions.html#/html/body/div/div/div/div/div/p/a at Line 176, column 5: The link 'StructureDefinition-pacific-clan.html' for "PacificClan" cannot be resolved
+ERROR: en/resources.html#/html/body/div/div/div/div/div/ul/li/a at Line 209, column 8: The link 'StructureDefinition-pacific-oxygen-saturation.html' for "PacificOxygenSaturation" cannot be resolved
+ERROR: en/resources.html#/html/body/div/div/div/div/div/ul/li/a at Line 210, column 8: The link 'StructureDefinition-pacific-respiratory-rate.html' for "PacificRespiratoryRate" cannot be resolved
+ERROR: en/resources.html#/html/body/div/div/div/div/div/ul/li/a at Line 211, column 8: The link 'StructureDefinition-pacific-weight.html' for "PacificWeight" cannot be resolved
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml, dependency-table-nontech.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated/resources/ImplementationGuide-hl7.fhir.uv.pacific.core.json ==
+INFORMATION: Resource: The resource ImplementationGuide/hl7.fhir.uv.pacific.core could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+== fsh-generated/resources/NamingSystem-FijiOrganizationIdentifier.json ==
+INFORMATION: Resource: The resource NamingSystem/FijiOrganizationIdentifier could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+== fsh-generated/resources/NamingSystem-FijiPatientIdentifier.json ==
+INFORMATION: Resource: The resource NamingSystem/FijiPatientIdentifier could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+== fsh-generated/resources/NamingSystem-FijiPractitionerRegistration.json ==
+INFORMATION: Resource: The resource NamingSystem/FijiPractitionerRegistration could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+== fsh-generated/resources/NamingSystem-WSPractitionerRegistration.json ==
+INFORMATION: Resource: The resource NamingSystem/WSPractitionerRegistration could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+== fsh-generated/resources/Organization-PacificHospitalExample.json ==
+== fsh-generated/resources/Patient-PacificPatientExample1.json ==
+== fsh-generated/resources/Patient-PacificPatientExample2.json ==
+== fsh-generated/resources/Patient-PacificPatientFijiITaukei.json ==
+WARNING: Patient/PacificPatientFijiITaukei: Patient.name[0]: Constraint failed: pac-hn-2: 'If use is 'official' or 'usual', text is strongly recommended (use.exists() implies text.exists())' (defined in https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-humanname)
+== fsh-generated/resources/Patient-PacificPatientFijiIndo.json ==
+WARNING: Patient/PacificPatientFijiIndo: Patient.name[0]: Constraint failed: pac-hn-2: 'If use is 'official' or 'usual', text is strongly recommended (use.exists() implies text.exists())' (defined in https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-humanname)
+WARNING: Patient/PacificPatientFijiIndo: Patient.name[1]: Constraint failed: pac-hn-2: 'If use is 'official' or 'usual', text is strongly recommended (use.exists() implies text.exists())' (defined in https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-humanname)
+== fsh-generated/resources/Practitioner-PacificPractitionerExample.json ==
+WARNING: Practitioner/PacificPractitionerExample: Practitioner.name[0]: Constraint failed: pac-hn-2: 'If use is 'official' or 'usual', text is strongly recommended (use.exists() implies text.exists())' (defined in https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-humanname)
+WARNING: Practitioner/PacificPractitionerExample: Practitioner.name[1]: Constraint failed: pac-hn-2: 'If use is 'official' or 'usual', text is strongly recommended (use.exists() implies text.exists())' (defined in https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-humanname)
+== fsh-generated/resources/PractitionerRole-PacificPractitionerRoleExample.json ==
+== fsh-generated/resources/StructureDefinition-pacific-address.json ==
+INFORMATION: Resource: The resource StructureDefinition/pacific-address could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+== fsh-generated/resources/StructureDefinition-pacific-address-island.json ==
+INFORMATION: Resource: The resource StructureDefinition/pacific-address-island could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+WARNING: StructureDefinition.where(url = 'https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-address-island'): The Implementation Guide contains no examples for this extension
+== fsh-generated/resources/StructureDefinition-pacific-address-village.json ==
+INFORMATION: Resource: The resource StructureDefinition/pacific-address-village could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+WARNING: StructureDefinition.where(url = 'https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-address-village'): The Implementation Guide contains no examples for this extension
+== fsh-generated/resources/StructureDefinition-pacific-allergy-intolerance.json ==
+INFORMATION: StructureDefinition/pacific-allergy-intolerance: StructureDefinition.snapshot.element[4].binding.extension[0]: The extension http://hl7.org/fhir/StructureDefinition/elementdefinition-maxValueSet|5.3.0 is deprecated with the note: 'Use additionalBinding extension or element instead'
+INFORMATION: Resource: The resource StructureDefinition/pacific-allergy-intolerance could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+WARNING: StructureDefinition.where(url = 'https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-allergy-intolerance'): The Implementation Guide contains no examples for this profile
+== fsh-generated/resources/StructureDefinition-pacific-clan-affiliation.json ==
+INFORMATION: Resource: The resource StructureDefinition/pacific-clan-affiliation could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+== fsh-generated/resources/StructureDefinition-pacific-condition.json ==
+INFORMATION: Resource: The resource StructureDefinition/pacific-condition could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+WARNING: StructureDefinition.where(url = 'https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-condition'): The Implementation Guide contains no examples for this profile
+== fsh-generated/resources/StructureDefinition-pacific-humanname.json ==
+INFORMATION: Resource: The resource StructureDefinition/pacific-humanname could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+== fsh-generated/resources/StructureDefinition-pacific-immunization.json ==
+INFORMATION: Resource: The resource StructureDefinition/pacific-immunization could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+WARNING: StructureDefinition.where(url = 'https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-immunization'): The Implementation Guide contains no examples for this profile
+== fsh-generated/resources/StructureDefinition-pacific-observation.json ==
+INFORMATION: Resource: The resource StructureDefinition/pacific-observation could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+WARNING: StructureDefinition.where(url = 'https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-observation'): The Implementation Guide contains no examples for this profile
+== fsh-generated/resources/StructureDefinition-pacific-organization.json ==
+INFORMATION: Resource: The resource StructureDefinition/pacific-organization could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+WARNING: StructureDefinition.where(url = 'https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-organization'): The Implementation Guide contains no examples for this profile
+== fsh-generated/resources/StructureDefinition-pacific-patient.json ==
+INFORMATION: Resource: The resource StructureDefinition/pacific-patient could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+== fsh-generated/resources/StructureDefinition-pacific-practitioner.json ==
+INFORMATION: Resource: The resource StructureDefinition/pacific-practitioner could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+== fsh-generated/resources/StructureDefinition-pacific-practitioner-role.json ==
+INFORMATION: Resource: The resource StructureDefinition/pacific-practitioner-role could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+== fsh-generated/resources/StructureDefinition-pacific-vital-blood-pressure.json ==
+INFORMATION: StructureDefinition/pacific-vital-blood-pressure: StructureDefinition.snapshot.element[13].pattern.ofType(CodeableConcept): The repeating element has a pattern. The pattern will apply to all the repeats (this has not been clear to all users)
+INFORMATION: Resource: The resource StructureDefinition/pacific-vital-blood-pressure could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+WARNING: StructureDefinition.where(url = 'https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-vital-blood-pressure'): The Implementation Guide contains no examples for this profile
+== fsh-generated/resources/StructureDefinition-pacific-vital-bmi.json ==
+INFORMATION: StructureDefinition/pacific-vital-bmi: StructureDefinition.snapshot.element[13].pattern.ofType(CodeableConcept): The repeating element has a pattern. The pattern will apply to all the repeats (this has not been clear to all users)
+INFORMATION: Resource: The resource StructureDefinition/pacific-vital-bmi could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+WARNING: StructureDefinition.where(url = 'https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-vital-bmi'): The Implementation Guide contains no examples for this profile
+== fsh-generated/resources/StructureDefinition-pacific-vital-body-temperature.json ==
+INFORMATION: StructureDefinition/pacific-vital-body-temperature: StructureDefinition.snapshot.element[13].pattern.ofType(CodeableConcept): The repeating element has a pattern. The pattern will apply to all the repeats (this has not been clear to all users)
+INFORMATION: Resource: The resource StructureDefinition/pacific-vital-body-temperature could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+WARNING: StructureDefinition.where(url = 'https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-vital-body-temperature'): The Implementation Guide contains no examples for this profile
+== fsh-generated/resources/StructureDefinition-pacific-vital-heart-rate.json ==
+INFORMATION: StructureDefinition/pacific-vital-heart-rate: StructureDefinition.snapshot.element[13].pattern.ofType(CodeableConcept): The repeating element has a pattern. The pattern will apply to all the repeats (this has not been clear to all users)
+INFORMATION: Resource: The resource StructureDefinition/pacific-vital-heart-rate could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+WARNING: StructureDefinition.where(url = 'https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-vital-heart-rate'): The Implementation Guide contains no examples for this profile
+== fsh-generated/resources/StructureDefinition-pacific-vital-height.json ==
+INFORMATION: StructureDefinition/pacific-vital-height: StructureDefinition.snapshot.element[13].pattern.ofType(CodeableConcept): The repeating element has a pattern. The pattern will apply to all the repeats (this has not been clear to all users)
+INFORMATION: Resource: The resource StructureDefinition/pacific-vital-height could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+WARNING: StructureDefinition.where(url = 'https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-vital-height'): The Implementation Guide contains no examples for this profile
+== fsh-generated/resources/StructureDefinition-pacific-vital-oxygen-saturation.json ==
+INFORMATION: StructureDefinition/pacific-vital-oxygen-saturation: StructureDefinition.snapshot.element[13].pattern.ofType(CodeableConcept): The repeating element has a pattern. The pattern will apply to all the repeats (this has not been clear to all users)
+INFORMATION: Resource: The resource StructureDefinition/pacific-vital-oxygen-saturation could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+WARNING: StructureDefinition.where(url = 'https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-vital-oxygen-saturation'): The Implementation Guide contains no examples for this profile
+== fsh-generated/resources/StructureDefinition-pacific-vital-respiratory-rate.json ==
+INFORMATION: StructureDefinition/pacific-vital-respiratory-rate: StructureDefinition.snapshot.element[13].pattern.ofType(CodeableConcept): The repeating element has a pattern. The pattern will apply to all the repeats (this has not been clear to all users)
+INFORMATION: Resource: The resource StructureDefinition/pacific-vital-respiratory-rate could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+WARNING: StructureDefinition.where(url = 'https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-vital-respiratory-rate'): The Implementation Guide contains no examples for this profile
+== fsh-generated/resources/StructureDefinition-pacific-vital-weight.json ==
+INFORMATION: StructureDefinition/pacific-vital-weight: StructureDefinition.snapshot.element[13].pattern.ofType(CodeableConcept): The repeating element has a pattern. The pattern will apply to all the repeats (this has not been clear to all users)
+INFORMATION: Resource: The resource StructureDefinition/pacific-vital-weight could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+WARNING: StructureDefinition.where(url = 'https://fijiig.github.io/fiji-pacific-ig/StructureDefinition/pacific-vital-weight'): The Implementation Guide contains no examples for this profile
+== fsh-generated/resources/ValueSet-heart-rate-loinc.json ==
+WARNING: ValueSet/heart-rate-loinc: ValueSet: Published value sets SHOULD conform to the ShareableValueSet profile, which says that the element ValueSet.experimental is mandatory, but it is not present
+WARNING: Resource: The resource ValueSet/heart-rate-loinc should have an OID assigned to cater for possible use with OID based terminology systems e.g. CDA usage (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+== fsh-generated/resources/ValueSet-imm-vs.json ==
+WARNING: ValueSet/imm-vs: ValueSet: Published value sets SHOULD conform to the ShareableValueSet profile, which says that the element ValueSet.experimental is mandatory, but it is not present
+WARNING: Resource: The resource ValueSet/imm-vs should have an OID assigned to cater for possible use with OID based terminology systems e.g. CDA usage (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+== fsh-generated/resources/ValueSet-obs-vs.json ==
+WARNING: ValueSet/obs-vs: ValueSet: Published value sets SHOULD conform to the ShareableValueSet profile, which says that the element ValueSet.experimental is mandatory, but it is not present
+WARNING: Resource: The resource ValueSet/obs-vs should have an OID assigned to cater for possible use with OID based terminology systems e.g. CDA usage (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
