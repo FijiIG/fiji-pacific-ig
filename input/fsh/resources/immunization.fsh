@@ -24,14 +24,25 @@ The following elements must be recorded:
 Immunization.vaccineCode.coding shall be populated by one of the codes from the Immunization ValueSet where such a code exists
 for the vaccine.  Additional codes may be used where no matching code is present.
 
-## Considerations & Alignment with Regional IGs
+## Considerations & Decisions for DH TAG  
 
-For the draft version of this IG,  the Immunisation Valueset proposed has been taken from the set of CVX codes.  
+These considerations/decisions need to be agreed or validated by DH TAG for this profile.
+
+A. Terminology: For the draft version of this IG,  the Immunisation Valueset proposed has been taken from the set of CVX codes.  
 CVX is widely used internationally,  but alternative options include SNOMED GPS or MSupply codes (Tamanu).
+
+B. Confirm proposed constraints: select the Differential Table tab and review the current constraints
+
+C. Add any further constraints:  select the Snapshot Table tab below and determine if any additional elements should be required/must support etc.
+
+
+## Alignment with Regional IGs  
 
 This profile aligns element constraints with AU Core FHIR Immunization profile - 
 except that Australian specific vaccine coding and extensions have not been included.  
 New Zealand Base FHIR specification does not include Immunization.
+
+## 
 """
 * status 1..1 MS
 * vaccineCode 1..1 MS
