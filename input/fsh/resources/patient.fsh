@@ -3,7 +3,7 @@ Parent: Patient
 Id: pacific-patient
 Title: "Pacific Patient"
 Description: """
-Base Patient profile for South Pacific jurisdictions.
+Patient profile for South Pacific jurisdictions.
 
 Integrates:
 - PacificHumanName
