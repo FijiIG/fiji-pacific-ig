@@ -38,7 +38,7 @@ New Zealand Base FHIR specification does not include Immunization.
 * vaccineCode from ImmVS (extensible)
 * patient only Reference(PacificPatient)
 * occurrence[x] 1..1 MS
-* occurenceDateTime MS
+* occurrenceDateTime MS
 * lotNumber MS
 * note MS
 
